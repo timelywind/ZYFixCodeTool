@@ -7,7 +7,8 @@
 //
 
 #import "YUCreateFileTool.h"
-#import "ZYCommon.h"
+//#import "ZYCommon.h"
+#import "ZYCommonFuction.h"
 
 @implementation YUCreateFileTool
 
